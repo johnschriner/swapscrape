@@ -16,7 +16,9 @@ An automation tool using Selenium and ImageScraper to grab images from a site
 ##Running swapscrape.py
 
 There are essentially two parts to scraping this [unnamed] site:
+
   (1) automating an upload and grabbing the current URL
+  
   (2) parsing that URL and grabbing images from URLs 'nearby'
 
 

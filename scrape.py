@@ -12,7 +12,7 @@ import unittest, re
 
 
 uploadfile = random.choice(os.listdir("path/to/image/files/dir"))
-###print(uploadfile)
+print("Uploading: " + uploadfile)
 path = "/path/to/image/files/dir" + str(uploadfile)
 ###print(path)
 
